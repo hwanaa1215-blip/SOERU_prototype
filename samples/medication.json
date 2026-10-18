@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "name": "Demo Medication A",
+      "strength": "5 mg",
+      "dose": "1 tablet",
+      "instruction": "Once daily at the time confirmed with your pharmacist."
+    }
+  ],
+  "warnings": [
+    "Fictional sample: simulated transcription, not a live AI result. No exact clock time is printed. Enter and confirm your own reminder time."
+  ]
+}
